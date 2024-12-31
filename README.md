@@ -1,6 +1,6 @@
 <br clear="both">
 
-![snake gif](https://github.com/Akashnaik285/Akashnaik285/blob/output/github-snake-dark.svg)
+
 
 ###
 
@@ -54,4 +54,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
+
+![snake gif](https://github.com/Akashnaik285/Akashnaik285/blob/output/github-snake-dark.svg)
 ###
