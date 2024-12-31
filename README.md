@@ -57,3 +57,14 @@
 
 ![snake gif](https://github.com/Akashnaik285/Akashnaik285/blob/output/github-snake-dark.svg)
 ###
+
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akashnaik285&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
