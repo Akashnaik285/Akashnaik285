@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Akashnaik285/Akashnaik285/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ###
 
