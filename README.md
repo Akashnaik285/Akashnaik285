@@ -1,11 +1,15 @@
-### Hi, I'm Akash Naik!  👋
 
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Akahs) 
 
-- 🔭 I’m currently studying in MVJ college of Engineering
-- 🌱 I’m currently learning Computer Science Engineering
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with senior developers
-- 💬 Ask me about  c and c++ and any tech realted stuff                     
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to debug a lot...
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akashnaik285&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akashnaik285&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashnaik285&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Akashnaik285&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
